@@ -15,14 +15,14 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   [Key Enterprise Metrics & Realized Impact](#key-enterprise-metrics--realized-impact)
 *   [Technical & Operational Stack](#technical--operational-stack)
 *   [Work History](#work-history)
-    *   [Intuit (2025 – 2026)](#intuit-2025--2026)
-    *   [Sony Interactive Entertainment (2024 – Jan 2025)](#sony-interactive-entertainment-2024--jan-2025)
-    *   [Qualcomm Incorporated — Director Enterprise PMO, Strategic Portfolio Management & Business Operations (2019 – 2024)](#qualcomm-incorporated---director-2019--2024)
-    *   [Cisco Systems (2017 – 2019)](#cisco-systems-2017--2019)
-    *   [Qualcomm Incorporated — Staff Program Manager (Nov 2005 – 2017)](#qualcomm-incorporated---staff-nov-2005--2017)
-    *   [Covance, Inc. / LabCorp (Apr 2004 – Nov 2005)](#covance-inc--labcorp-apr-2004--nov-2005)
-    *   [Memec Group / Avnet (Jun 1996 – Jun 2002)](#memec-group--avnet-jun-1996--jun-2002)
-    *   [Tata Unisys Ltd. / Tata Consultancy Services (Dec 1993 – May 1996)](#tata-unisys-ltd--tata-consultancy-services-dec-1993--may-1996)
+    *   [Intuit - Principal Program Manager)](#intuit-2025--2026)
+    *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--jan-2025)
+    *   [Qualcomm Incorporated — Director, PMO & Business Operations](#qualcomm-incorporated---director-2019--2024)
+    *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
+    *   [Qualcomm Incorporated — Staff Program Manager](#qualcomm-incorporated---staff-nov-2005--2017)
+    *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc--labcorp-apr-2004--nov-2005)
+    *   [Memec Group / Avnet Project Manager & Business Analyst](#memec-group--avnet-jun-1996--jun-2002)
+    *   [Tata Unisys Ltd. / Tata Consultancy Services - Software Engineer / Quality Engineer](#tata-unisys-ltd--tata-consultancy-services-dec-1993--may-1996)
 *   [Education & Credentials](#education--credentials)
 
 ---
@@ -56,7 +56,7 @@ Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, I
 End-to-End Process Mapping | Requirements Traceability | IRQ/DDQ Design | Conditional Workflow Logic | Data Cleansing & Migration Planning | Golden Record Concepts | E2E Testing & Staging Validation | User Acceptance Testing (UAT) | Usability Testing | Change Management & Adoption Planning | Executive Steering & Governance | Vendor & Systems Integrator (SI) Management | Business Requirements & Acceptance Criteria | Target Operating Model Design.
 ---
 
-## Work History (1993 – 2026)
+## Work History 
 
 ### Intuit (2025 – 2026)
 **Principal Program Manager, Global Sourcing & Procurement / Global Business Services**
@@ -70,7 +70,7 @@ Led enterprise-wide transformations across Third-Party Risk Management (3PRM), C
 *   **Contract Lifecycle Management (CLM) Readiness:** Directed Phase 3 implementation readiness for enterprise expense contracts utilizing an integrated Ironclad, Coupa, Swift, Aravo, and Oracle architecture to eliminate manual handoffs, improve visibility, and streamline audit compliance. Evaluated Phase 1 user adoption to inform Phase 3 designs, coordinated with Ironclad to develop tailored expense workflows, and initiated system-integrator evaluations across PwC, Deloitte, and Consilio. Conducted assessments covering contract inventories, policies, and workflows, while exploring template rationalization, contingent-workforce needs, and budget requirements, targeting a 30–40% reduction in contract cycle times.
 
 ### Sony Interactive Entertainment (2024 – Jan 2025)
-**Strategic Portfolio Manager / Portfolio Program Manager, Core Platform Engineering**
+**Strategic Portfolio Manager, Core Platform Engineering**
 
 Built and operationalized the Strategic Portfolio Management Office (SPMO) for Core Platform Engineering within a decentralized product and engineering environment spanning Client, Network, Hardware, Platform, Data, Commerce, Identity, and Partner ecosystems.
 
@@ -97,8 +97,8 @@ Led cross-functional transformation initiatives across global Supply Chain, Fina
 *   **Innovation Funding & Governance:** Engineered an agile, fast-fail funding framework to manage experimental enterprise initiatives. Developed rigorous business cases, ROI metrics, and readiness scorecards to evaluate business impact and organizational readiness to effectively prioritize strategic capital investments.
 *   **Operating Model Design:** Partnered with senior leadership to define future-state operating models, governance frameworks, success metrics, dependency management architectures, and executive decision-making cadences to advance higher-value initiatives into execution.
 
-### Qualcomm Incorporated — Staff (Nov 2005 – 2017)
-**Staff Business Process Analyst / Staff Technical Program Manager / Staff Program Manager**
+### Qualcomm Incorporated (Nov 2005 – 2017)
+**Staff Technical Program Manager**
 
 Served as primary liaison among engineering product teams, corporate business owners, and IT technical groups to translate complex business objectives into executable roadmaps, leading product-deployment initiatives, functional/system requirements, process improvements, and implementation.
 
@@ -107,7 +107,7 @@ Served as primary liaison among engineering product teams, corporate business ow
 *   **Operational Integration Planning:** Orchestrated multi-functional operational integration planning for subsequent potential enterprise acquisition evaluations. Developed comprehensive Day 1 through Day 180 operating plans across procurement and supply chain, mapping out supplier communications, negotiation strategies, PO approval delegations of authority, CapEx approvals, capacity planning, and cross-company system access while managing evolving strategic assumptions.
 *   **Source-to-Pay Modernization:** Led enterprise systems integration and Source-to-Pay transformation programs, partnering directly with enterprise architects and external vendors on technical trade-offs, system dependencies, platform reliability, and scalable post-deployment workflows. Established dashboards, executive communication cadences, milestone governance, and repeatable delivery models for complex matrixed programs.
 ### Covance, Inc. / LabCorp (Apr 2004 – Nov 2005)
-**Project Manager & Senior Business Analyst**
+**Senior Project Manager & Business Analyst**
 
 *   **Workflow Reengineering:** Conceptualized and reengineered a core health-insurance claims workflow for a Fortune 500 therapeutics company and specialty-pharmacy partners, achieving an annual cost reduction of over $1M (~50% optimization in outsourcing spend) by redistributing claims based on partner specialization. Led a 12-person team spanning Covance personnel, client teams, and specialty-pharmacy stakeholders.
 *   **Digital Intake Strategy:** Developed a provider migration strategy for a global pharmaceutical firm to transition clinics, physicians, and office staff away from legacy fax workflows to secure web-based claims submission platforms, yielding a 10% margin improvement and over $2M in potential annual cost savings.
