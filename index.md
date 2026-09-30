@@ -42,8 +42,8 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   **Enterprise Platforms & Systems** - Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
 
 *   **AI & Advanced Automation Ecosystem**
-*    **Ecosystem Governance & Infrastructure:** Swift Request frontend automation, AI Sandbox, GenOS/E2E LLM testing frameworks, Intuit CodeAssist, GitHub Copilot, Application Portal, Dev Portal, and LLM Availability Tracker.
-*    **Workflow Optimization Philosophy:** Pragmatic application of AI to enterprise process transformation—specifically focused on reducing manual operational workloads, improving upfront intake document quality, utilizing AIOCR document data extraction, and accelerating cross-functional workflow velocity.
+*      **Ecosystem Governance & Infrastructure:** Swift Request frontend automation, AI Sandbox, GenOS/E2E LLM testing frameworks, Intuit CodeAssist, GitHub Copilot, Application Portal, Dev Portal, and LLM Availability Tracker.
+*      **Workflow Optimization Philosophy:** Pragmatic application of AI to enterprise process transformation—specifically focused on reducing manual operational workloads, improving upfront intake document quality, utilizing AIOCR document data extraction, and accelerating cross-functional workflow velocity.
 
 *   **Program Management, Design & Collaboration Tools** - Lucidchart, Jira, Figma, Slack, Google Workspace (Drive, Docs, Sheets, Slides), Zoom, Microsoft 365, OneNote, Loop, and Outlook.
 
