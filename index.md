@@ -17,7 +17,7 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   [Work History](#work-history)
     *   [Intuit - Principal Program Manager](#intuit-2025--2026)
     *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
-    *   [Qualcomm Inc - Director](#qualcomm-inc-2019--2024)
+    *   [Qualcomm Incorporated — Director (2019 – 2024)](#qualcomm-incorporated--director-2019--2024)
     *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
     *   [Qualcomm Inc - Staff Program Manager](#qualcomm-inc-2005--2017)
     *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc--labcorp-2004--2005)
@@ -62,7 +62,7 @@ Led enterprise-wide transformations across Third-Party Risk Management (3PRM), C
 *   **AI Tool & Intake Governance:** Supported design of a clearer intake and routing experience for enterprise GenAI tool requests, addressing employee confusion about approved tools, capability-owner approvals, and available experimentation paths. Framed approval-routing concepts using commodity, requester context, and risk-review triggers. Defined request-routing scenarios for spend/no-spend and real/synthetic data across Swift, Aravo, or ServiceNow (SNOW) while ensuring contractual, privacy, or NDA controls were enforced. Redirected users to approved solutions including AI Sandbox, approved LLM testing in GenOS/E2E, Intuit CodeAssist, and the Application Portal.
 *   **Contract Lifecycle Management (CLM) Readiness:** Directed Phase 3 implementation readiness for enterprise expense contracts utilizing an integrated Ironclad, Coupa, Swift, Aravo, and Oracle architecture to eliminate manual handoffs, improve visibility, and streamline audit compliance. Evaluated Phase 1 user adoption to inform Phase 3 designs, coordinated with Ironclad to develop tailored expense workflows, and initiated system-integrator evaluations across PwC, Deloitte, and Consilio. Conducted assessments covering contract inventories, policies, and workflows, while exploring template rationalization, contingent-workforce needs, and budget requirements, targeting a 30–40% reduction in contract cycle times.
 
-### Sony Interactive Entertainment (2024 – Jan 2025)
+### Sony Interactive Entertainment (2024 – 2025)
 **Strategic Portfolio Manager, Core Platform Engineering**
 
 Built and operationalized the Strategic Portfolio Management Office (SPMO) for Core Platform Engineering within a decentralized product and engineering environment spanning Client, Network, Hardware, Platform, Data, Commerce, Identity, and Partner ecosystems.
@@ -70,7 +70,7 @@ Built and operationalized the Strategic Portfolio Management Office (SPMO) for C
 *   **Resource Capacity Modeling:** Created the organization's first centralized resource-planning model, exposing capacity constraints, over-allocation, structural dependencies, execution risks, and investment trade-offs. Managed portfolio visibility and capacity trade-offs across 10 to 40 concurrent programs per organization.
 *   **Strategic Roadmapping:** Translated long-range platform strategy into annual and quarterly capacity-aligned execution plans, partnering directly with senior engineering executives to govern investment strategy, funding decisions, sequencing, and priorities.
 *   **Operational Visibility & Scale:** Built KPI/portfolio-health visibility, structured risk and dependency reviews, change-control models, role-based-access mechanisms, knowledge management repositories, and standardized reporting frameworks. Incorporated lifecycle lessons learned into subsequent planning and resource-management cycles to support future portfolio launch activities.
-### Qualcomm Inc — Director (2019 – 2024)
+### Qualcomm Incorporated — Director (2019 – 2024)
 **Director, PMO & Business Operations**
 
 Built and scaled a global PMO of 20–25+ people, including direct selection, development, evaluation, coaching, and mentoring of Technical Project, Program, and Portfolio Managers and people leaders. Expanded baseline PMO capabilities beyond traditional program management to embed cross-functional UX, QA, Release Management, and Change Management practices directly into core enterprise delivery teams. Repeatedly established governance, operating cadences, decision mechanisms, metrics, and executive visibility in ambiguous or high-risk programs.
@@ -90,7 +90,7 @@ Led cross-functional transformation initiatives across global Supply Chain, Fina
 *   **Innovation Funding & Governance:** Engineered an agile, fast-fail funding framework to manage experimental enterprise initiatives. Developed rigorous business cases, ROI metrics, and readiness scorecards to evaluate business impact and organizational readiness to effectively prioritize strategic capital investments.
 *   **Operating Model Design:** Partnered with senior leadership to define future-state operating models, governance frameworks, success metrics, dependency management architectures, and executive decision-making cadences to advance higher-value initiatives into execution.
 
-### Qualcomm Inc (2005 – 2017)
+### Qualcomm Incorporated (2005 – 2017)
 **Staff Technical Program Manager**
 
 Served as primary liaison among engineering product teams, corporate business owners, and IT technical groups to translate complex business objectives into executable roadmaps, leading product-deployment initiatives, functional/system requirements, process improvements, and implementation.
