@@ -17,7 +17,7 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   [Work History](#work-history)
     *   [Intuit - Principal Program Manager](#intuit-2025--2026)
     *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
-    *   [Qualcomm Inc - Director, PMO](#qualcomm-incorporated--director-2019--2024)
+    *   [Qualcomm Inc - Director, PMO](#qualcomm-inc--director--PMO-2019--2024)
     *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
     *   [Qualcomm Inc - Staff Program Manager)](#qualcomm-inc-2005--2017)
     *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc)
@@ -90,7 +90,7 @@ Led cross-functional transformation initiatives across global Supply Chain, Fina
 *   **Innovation Funding & Governance:** Engineered an agile, fast-fail funding framework to manage experimental enterprise initiatives. Developed rigorous business cases, ROI metrics, and readiness scorecards to evaluate business impact and organizational readiness to effectively prioritize strategic capital investments.
 *   **Operating Model Design:** Partnered with senior leadership to define future-state operating models, governance frameworks, success metrics, dependency management architectures, and executive decision-making cadences to advance higher-value initiatives into execution.
 
-### Qualcomm Incorporated (Nov 2005 – 2017)
+### Qualcomm Inc (Nov 2005 – 2017)
 **Staff Technical Program Manager**
 
 Served as primary liaison among engineering product teams, corporate business owners, and IT technical groups to translate complex business objectives into executable roadmaps, leading product-deployment initiatives, functional/system requirements, process improvements, and implementation.
