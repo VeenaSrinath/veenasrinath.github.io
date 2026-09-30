@@ -43,7 +43,7 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 
 *   **AI & Advanced Automation Ecosystem** - **Ecosystem Governance & Infrastructure:** AI-enabled orchestration platform creation, AI Sandbox, GenOS/E2E LLM testing frameworks, Intuit CodeAssist, GitHub Copilot. **Workflow Optimization Philosophy:** Pragmatic application of AI to enterprise process transformation—specifically focused on reducing manual operational workloads, improving upfront intake document quality, utilizing AIOCR document data extraction, and accelerating cross-functional workflow velocity.
 
-*   **Program Management, Design & Collaboration Tools** - Lucidchart, Jira, Figma, Slack, Google Workspace (Drive, Docs, Sheets, Slides), Zoom, Microsoft 365, OneNote, Loop, and Outlook.
+*   **Program Management, Design & Collaboration Tools** - Lucidchart, Jira, Figma, Google Workspace Suite Microsoft Office Suite.
 
 *   **Early-Career Technical Stack** - Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
 
