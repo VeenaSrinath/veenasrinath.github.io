@@ -129,12 +129,11 @@ Served as primary liaison among engineering product teams, corporate business ow
 
 *   **Bachelor of Engineering (B.E.), Computer Science & Information Technology**  
     Bangalore University, India (Ranked 2nd in Program)
-*   **Advanced Diploma in Information Sciences**  
-    NIIT, India (Fully Paid Scholarship, 1991–1993)
-*   **Advanced Java Course**  
-    University of California, San Diego
 *   **Project Management Professional (PMP)** — Certified since 2007
 *   **Stanford Certified Project Manager**
 *   **Certified Scrum Master (CSM)**
 *   **SAFe Certified Agilist**
+*   **Advanced Diploma in Information Sciences**  
+    NIIT, India (Fully Paid Scholarship, 1991–1993)
+*      
   
