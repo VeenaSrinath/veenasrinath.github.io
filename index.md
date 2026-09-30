@@ -17,9 +17,9 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   [Work History](#work-history)
     *   [Intuit - Principal Program Manager)](#intuit-2025--2026)
     *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--jan-2025)
-    *   [Qualcomm Incorporated - Director, PMO & Business Operations](#qualcomm-incorporated---director-2019--2024)
+    *   [Qualcomm Incorporated - Director, PMO & Business Operations](#qualcomm-incorporated-director-2019--2024)
     *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
-    *   [Qualcomm Incorporated - Staff Program Manager](#qualcomm-incorporated---staff-nov-2005--2017)
+    *   [Qualcomm Incorporated - Staff Program Manager](#qualcomm-incorporated-staff-nov-2005--2017)
     *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc--labcorp-apr-2004--nov-2005)
     *   [Memec Group / Avnet - Project Manager & Business Analyst](#memec-group--avnet-jun-1996--jun-2002)
     *   [Tata Unisys Ltd. / Tata Consultancy Services - Software Engineer / Quality Engineer](#tata-unisys-ltd--tata-consultancy-services-dec-1993--may-1996)
@@ -135,5 +135,5 @@ Served as primary liaison among engineering product teams, corporate business ow
 *   **SAFe Certified Agilist**
 *   **Advanced Diploma in Information Sciences**  
     NIIT, India (Fully Paid Scholarship, 1991–1993)
-*      
+  
   
