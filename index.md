@@ -90,7 +90,7 @@ Led cross-functional transformation initiatives across global Supply Chain, Fina
 *   **Innovation Funding & Governance:** Engineered an agile, fast-fail funding framework to manage experimental enterprise initiatives. Developed rigorous business cases, ROI metrics, and readiness scorecards to evaluate business impact and organizational readiness to effectively prioritize strategic capital investments.
 *   **Operating Model Design:** Partnered with senior leadership to define future-state operating models, governance frameworks, success metrics, dependency management architectures, and executive decision-making cadences to advance higher-value initiatives into execution.
 
-### Qualcomm Inc (Nov 2005 – 2017)
+### Qualcomm Inc (2005 – 2017)
 **Staff Technical Program Manager**
 
 Served as primary liaison among engineering product teams, corporate business owners, and IT technical groups to translate complex business objectives into executable roadmaps, leading product-deployment initiatives, functional/system requirements, process improvements, and implementation.
@@ -99,7 +99,7 @@ Served as primary liaison among engineering product teams, corporate business ow
 *   **M&A Integration Leadership:** Handled complex corporate M&A integration programs across supply-chain and finance platforms. Led post-acquisition platform consolidations, production data migrations, operational readiness checks, and stakeholder adoption frameworks to align business operations.
 *   **Operational Integration Planning:** Orchestrated multi-functional operational integration planning for subsequent potential enterprise acquisition evaluations. Developed comprehensive Day 1 through Day 180 operating plans across procurement and supply chain, mapping out supplier communications, negotiation strategies, PO approval delegations of authority, CapEx approvals, capacity planning, and cross-company system access while managing evolving strategic assumptions.
 *   **Source-to-Pay Modernization:** Led enterprise systems integration and Source-to-Pay transformation programs, partnering directly with enterprise architects and external vendors on technical trade-offs, system dependencies, platform reliability, and scalable post-deployment workflows. Established dashboards, executive communication cadences, milestone governance, and repeatable delivery models for complex matrixed programs.
-### Covance, Inc. / LabCorp (Apr 2004 – Nov 2005)
+### Covance, Inc. / LabCorp (2004 – 2005)
 **Senior Project Manager & Business Analyst**
 
 *   **Workflow Reengineering:** Conceptualized and reengineered a core health-insurance claims workflow for a Fortune 500 therapeutics company and specialty-pharmacy partners, achieving an annual cost reduction of over $1M (~50% optimization in outsourcing spend) by redistributing claims based on partner specialization. Led a 12-person team spanning Covance personnel, client teams, and specialty-pharmacy stakeholders.
@@ -108,7 +108,7 @@ Served as primary liaison among engineering product teams, corporate business ow
 *   **Business Discovery:** Conducted focus groups of 6–8 members and facilitated expansive discovery workshops with up to 50 participants (including executives, account directors, and physicians) to map existing processes, perform gap analysis, and translate operational needs into system designs. Developed a consolidated market-intelligence dashboard and statistical trend reporting to support the world’s largest biotech company.
 *   **Operational Standards:** Prepared detailed proposals with cost-benefit analysis, risk assessment, scope, delivery timing, and technical feasibility to support new-business acquisition. Defined Covance SDLC processes, lifecycle artifacts, deliverables, templates, and UML-based design methods. Operated across reimbursement hotlines, patient-assistance networks, and compliance programs.
 
-### Memec Group / Avnet (Jun 1996 – Jun 2002)
+### Memec Group / Avnet (1996 – 2002)
 **Project Manager & Business Analyst**
 
 *   **Supply Chain Solutions:** Led cross-functional teams of 6 to 12 members delivering integrated financial, sales, marketing, warehouse, ERP, and supply-chain solutions to lower inventory carrying costs, improve profitability, and enhance customer satisfaction. Redesigned warehouse routing configurations and optimized order fulfillment processes.
@@ -116,7 +116,7 @@ Served as primary liaison among engineering product teams, corporate business ow
 *   **Corporate Training Pipelines:** Orchestrated comprehensive nationwide software and applications training deployments, developing custom training plans for over 600 corporate sales users.
 *   **System Refinement:** Owned post-launch technical and warehouse support, bug tracking and fixes, SQL requests, database/system maintenance, customization tracking, and usage success metrics. Organized and facilitated workshops with 50+ participants and focus groups of 6–8 members.
 
-### Tata Unisys Ltd. / Tata Consultancy Services (Dec 1993 – May 1996)
+### Tata Unisys Ltd. / Tata Consultancy Services (1993 – 1996)
 **Software Engineer / Quality Assurance Engineer**
 
 *   **Application Development:** Programmed client/server products automating activities and transactions for commercial financial institutions.
