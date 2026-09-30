@@ -15,7 +15,7 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   [Key Enterprise Metrics & Realized Impact](#key-enterprise-metrics--realized-impact)
 *   [Technical & Operational Stack](#technical--operational-stack)
 *   [Work History](#work-history)
-    *   [Intuit - Principal Program Manager](#intuit-2025--2026)
+    *   [Intuit - Principal Program Manager](#intuit-2025-2026)
     *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
     *   [Qualcomm Inc - Director, PMO](#qualcomm-incorporated--director-2019--2024)
     *   [Cisco Systems - Transformation Program Manager](#cisco-systems)
