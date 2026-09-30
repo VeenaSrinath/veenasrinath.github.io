@@ -54,6 +54,7 @@ Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, I
 
 ### Core Delivery Practices
 End-to-End Process Mapping | Requirements Traceability | IRQ/DDQ Design | Conditional Workflow Logic | Data Cleansing & Migration Planning | Golden Record Concepts | E2E Testing & Staging Validation | User Acceptance Testing (UAT) | Usability Testing | Change Management & Adoption Planning | Executive Steering & Governance | Vendor & Systems Integrator (SI) Management | Business Requirements & Acceptance Criteria | Target Operating Model Design.
+
 ---
 
 ## Work History 
