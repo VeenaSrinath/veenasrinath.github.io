@@ -23,7 +23,7 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
     *   [Qualcomm Inc - Staff Program Manager)](#qualcomm-inc)
     *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc)
     *   [Memec Group / Avnet - Project Manager & Business Analyst](#memec-group)
-    *   [Tata Unisys Ltd. / Tata Consultancy Services - Software Engineer & Quality Assurance Engineer] (#tata-unisys)
+    *   [Tata Unisys Ltd. / Tata Consultancy Services - Software Engineer & Quality Assurance Engineer](#tata-unisys)
 *   [Education & Credentials](#education--credentials)
 
 ---
