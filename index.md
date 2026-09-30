@@ -17,9 +17,9 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   [Work History](#work-history)
     *   [Intuit - Principal Program Manager](#intuit-2025--2026)
     *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
-    *   [Qualcomm Inc - Director, PMO](#qualcomm-inc-2019--2024)
+    *   [Qualcomm Inc - Director. PMO](#qualcomm-inc-2019--2024)
     *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
-    *   [Qualcomm Inc - Staff Program Manager)](#qualcomm-inc-2005--2017)
+    *   [Qualcomm Inc - Staff Program Manager](#qualcomm-inc-2005--2017)
     *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc--labcorp-2004--2005)
     *   [Memec Group / Avnet - Project Manager & Business Analyst](#memec-group--avnet-1996--2002)
     *   [Tata Unisys Ltd. / Tata Consultancy Services - Software Engineer & Quality Assurance Engineer](#tata-unisys-ltd--tata-consultancy-services-1993--1996)
@@ -70,7 +70,7 @@ Built and operationalized the Strategic Portfolio Management Office (SPMO) for C
 *   **Resource Capacity Modeling:** Created the organization's first centralized resource-planning model, exposing capacity constraints, over-allocation, structural dependencies, execution risks, and investment trade-offs. Managed portfolio visibility and capacity trade-offs across 10 to 40 concurrent programs per organization.
 *   **Strategic Roadmapping:** Translated long-range platform strategy into annual and quarterly capacity-aligned execution plans, partnering directly with senior engineering executives to govern investment strategy, funding decisions, sequencing, and priorities.
 *   **Operational Visibility & Scale:** Built KPI/portfolio-health visibility, structured risk and dependency reviews, change-control models, role-based-access mechanisms, knowledge management repositories, and standardized reporting frameworks. Incorporated lifecycle lessons learned into subsequent planning and resource-management cycles to support future portfolio launch activities.
-### Qualcomm Incorporated — Director, PMO (2019 – 2024)
+### Qualcomm Inc — Director, PMO (2019 – 2024)
 **Director, PMO & Business Operations**
 
 Built and scaled a global PMO of 20–25+ people, including direct selection, development, evaluation, coaching, and mentoring of Technical Project, Program, and Portfolio Managers and people leaders. Expanded baseline PMO capabilities beyond traditional program management to embed cross-functional UX, QA, Release Management, and Change Management practices directly into core enterprise delivery teams. Repeatedly established governance, operating cadences, decision mechanisms, metrics, and executive visibility in ambiguous or high-risk programs.
