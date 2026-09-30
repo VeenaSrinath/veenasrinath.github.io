@@ -39,21 +39,15 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 
 ## Technical & Operational Stack
 
-*### Enterprise Platforms & Systems - 
-Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
+*   **Enterprise Platforms & Systems** - Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
 
-*### AI & Advanced Automation Ecosystem
-*   **Ecosystem Governance & Infrastructure:** Swift Request frontend automation, AI Sandbox, GenOS/E2E LLM testing frameworks, Intuit CodeAssist, GitHub Copilot, Application Portal, Dev Portal, and LLM Availability Tracker.
-*   **Workflow Optimization Philosophy:** Pragmatic application of AI to enterprise process transformation—specifically focused on reducing manual operational workloads, improving upfront intake document quality, utilizing AIOCR document data extraction, and accelerating cross-functional workflow velocity.
+*   **AI & Advanced Automation Ecosystem**
+*    **Ecosystem Governance & Infrastructure:** Swift Request frontend automation, AI Sandbox, GenOS/E2E LLM testing frameworks, Intuit CodeAssist, GitHub Copilot, Application Portal, Dev Portal, and LLM Availability Tracker.
+*    **Workflow Optimization Philosophy:** Pragmatic application of AI to enterprise process transformation—specifically focused on reducing manual operational workloads, improving upfront intake document quality, utilizing AIOCR document data extraction, and accelerating cross-functional workflow velocity.
 
-### Program Management, Design & Collaboration Tools
-Lucidchart, Jira, Figma, Slack, Google Workspace (Drive, Docs, Sheets, Slides), Zoom, Microsoft 365, OneNote, Loop, and Outlook.
+*   **Program Management, Design & Collaboration Tools** - Lucidchart, Jira, Figma, Slack, Google Workspace (Drive, Docs, Sheets, Slides), Zoom, Microsoft 365, OneNote, Loop, and Outlook.
 
-### Early-Career Technical Stack
-Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
-
-### Core Delivery Practices
-End-to-End Process Mapping | Requirements Traceability | IRQ/DDQ Design | Conditional Workflow Logic | Data Cleansing & Migration Planning | Golden Record Concepts | E2E Testing & Staging Validation | User Acceptance Testing (UAT) | Usability Testing | Change Management & Adoption Planning | Executive Steering & Governance | Vendor & Systems Integrator (SI) Management | Business Requirements & Acceptance Criteria | Target Operating Model Design.
+*   **Early-Career Technical Stack** - Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
 
 ---
 
