@@ -7,45 +7,59 @@ San Diego, CA | [Connect on LinkedIn](https://linkedin.com) | veena.a.srinath@gm
 
 ## Executive Summary
 
-I am an enterprise technology, program portfolio, PMO, and business-operations leader with over 20 years of experience driving cross-functional transformations across engineering, global supply chains, HR/payroll, finance, legal, and platform engineering. I specialize in bringing structure to highly ambiguous environments, designing multi-year capital investment governance, executing large-scale organizational reboots, and building strategic capacity planning frameworks that align enterprise engineering teams with corporate revenue goals.
+I lead technology and business transformation across complex global organizations, working at the intersection of strategy, business operations, portfolio leadership, and execution. Over 20+ years, I have built and scaled PMO capabilities, shaped operating models, translated multi-year strategy into funded roadmaps and Plans of Record, and led investment, resource, and capacity decisions across engineering, product, and corporate functions.
+
+I am at my best in ambiguous environments where priorities compete, resources are constrained, and leaders need clarity to make decisions. I partner with executives to establish operating cadences, prioritize investments, surface trade-offs, remove execution bottlenecks, and build organizations that can execute at scale. My experience spans enterprise technology, software and platform organizations, ERP and SaaS transformation, supply chain, M&A integration, AI-enabled process transformation, and organizational change.
 
 ---
 
 ## Contents
-*   [Key Enterprise Metrics & Realized Impact](#key-enterprise-metrics--realized-impact)
-*   [Technical & Operational Stack](#technical--operational-stack)
-*   [Work History](#work-history)
-    *   [Intuit - Principal Program Manager](#intuit-2025--2026)
-    *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
-    *   [Qualcomm Incorporated - Director](#qualcomm-incorporated-2019--2024)
-    *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
-    *   [Qualcomm Inc - Staff Program Manager](#qualcomm-incorporated-2005--2017)
-    *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc--labcorp-2004--2005)
-    *   [Memec Group / Avnet - Project Manager & Business Analyst](#memec-group--avnet-1996--2002)
-    *   [Tata Unisys Ltd. / Tata Consultancy Services - Software Engineer & Quality Assurance Engineer](#tata-unisys-ltd--tata-consultancy-services-1993--1996)
-*   [Education & Credentials](#education--credentials)
+
+- [Key Enterprise Metrics & Realized Impact](#key-enterprise-metrics--realized-impact)
+- [Technology, AI & Operational Stack](#technology-ai--operational-stack)
+- [Work History](#work-history)
+  - [Intuit — Principal Program Manager](#intuit-2025--2026)
+  - [Sony Interactive Entertainment — Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
+  - [Qualcomm — Director, PMO & Business Operations](#qualcomm-incorporated--director-2019--2024)
+  - [Cisco Systems — Transformation Program Manager](#cisco-systems-2017--2019)
+  - [Qualcomm — Staff Technical Program Manager](#qualcomm-incorporated-2005--2017)
+  - [Earlier Career](#earlier-career-1993--2005)
+- [Education & Credentials](#education--credentials)
 
 ---
 
 ## Key Enterprise Metrics & Realized Impact
 
-*   **Global PMO Scale:** Built and scaled a 20–25+ person global PMO from the ground up, establishing enterprise governance, portfolio prioritization models, capacity workflows, and executive operating rhythms.
-*   **Resource Capacity Governance:** Engineered comprehensive capacity modeling architectures managing peak allocation balances across 750+ global technical resources.
-*   **SaaS & Corporate Footprint:** Governed seven enterprise business portfolios spanning HR, Finance, Legal, Supply Chain, Sales, and IT Infrastructure, managing cross-functional optimizations affecting 40,000+ employees.
-*   **Financial Portfolio Stewardship:** Directed capital investment architectures, portfolio metrics, and prioritization frameworks tracking over $75M+ in explicit enterprise business value.
-*   **M&A Integration Leadership:** Steered an integrated, cross-functional organization of roughly 300–400+ people through high-visibility, post-acquisition platform consolidations, aligning disparate processes and systems into functional target operating models.
+- **Global PMO Leadership:** Built and scaled a 20–25 person global PMO, establishing portfolio governance, prioritization, resource planning, and executive operating rhythms.
+
+- **Resource & Capacity Planning:** Led capacity planning and resource allocation across 750+ global resources, balancing demand, staffing, vendor capacity, and delivery commitments.
+
+- **Enterprise Portfolio Leadership:** Governed seven enterprise portfolios across corporate functions including HR/Payroll, Finance, Legal, Sales & Marketing, Supply Chain & Procurement, Yield Management, and Enterprise Technology.
+
+- **Investment Governance & Business Value:** Led annual planning, budget allocation, investment prioritization, KPI/OKR frameworks, and value-realization tracking across portfolios delivering $75M+ in measurable business value.
+
+- **Enterprise Platform Transformation:** Led global workforce and platform modernization initiatives supporting 40,000+ employees.
+
+- **M&A & Large-Scale Transformation:** Led global cross-functional organizations of approximately 300–400+ people through ERP modernization, M&A integration, platform consolidation, and operating-model transformation.
 
 ---
 
-## Technical & Operational Stack
+## Technology, AI & Operational Stack
 
-*   **Enterprise Platforms & Systems** - Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
+- **Enterprise Platforms & Systems** — Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
 
-*   **AI & Advanced Automation Ecosystem** - **Ecosystem Governance & Infrastructure:** AI-enabled orchestration platform creation, AI Sandbox, GenOS/E2E LLM testing frameworks, Intuit CodeAssist, GitHub Copilot. **Workflow Optimization Philosophy:** Pragmatic application of AI to enterprise process transformation—specifically focused on reducing manual operational workloads, improving upfront intake document quality, utilizing AIOCR document data extraction, and accelerating cross-functional workflow velocity.
+- **AI & Automation** — Applied AI-enabled workflow automation, AIOCR document extraction, risk-based decisioning, and GenAI intake/governance to simplify enterprise processes and reduce manual work. Worked across an enterprise AI ecosystem including Swift, AI Sandbox, GenOS/E2E, Intuit CodeAssist, and approved GenAI tooling.
 
-*   **Program Management, Design & Collaboration Tools** - Lucidchart, Jira, Figma, Google Workspace Suite Microsoft Office Suite.
+- **AI Productivity Tools** — ChatGPT, Gemini, GitHub Copilot.
 
-*   **Early-Career Technical Stack** - Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
+- **Portfolio, Program & Collaboration Tools** — Jira, Lucidchart, Figma, Google Workspace, Microsoft Office Suite, Tableau, and related portfolio-management and reporting tools.
+
+<details>
+<summary><strong>Earlier-Career Technical Stack</strong></summary>
+
+Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
+
+</details>
 
 ---
 
@@ -70,12 +84,15 @@ Built and operationalized the Strategic Portfolio Management Office (SPMO) for C
 *   **Resource Capacity Modeling:** Created the organization's first centralized resource-planning model, exposing capacity constraints, over-allocation, structural dependencies, execution risks, and investment trade-offs. Managed portfolio visibility and capacity trade-offs across 10 to 40 concurrent programs per organization.
 *   **Strategic Roadmapping:** Translated long-range platform strategy into annual and quarterly capacity-aligned execution plans, partnering directly with senior engineering executives to govern investment strategy, funding decisions, sequencing, and priorities.
 *   **Operational Visibility & Scale:** Built KPI/portfolio-health visibility, structured risk and dependency reviews, change-control models, role-based-access mechanisms, knowledge management repositories, and standardized reporting frameworks. Incorporated lifecycle lessons learned into subsequent planning and resource-management cycles to support future portfolio launch activities.
+
 ### Qualcomm Incorporated (2019 – 2024)
 **Director, PMO & Business Operations**
 
-Built and scaled a global PMO of 20–25+ people, including direct selection, development, evaluation, coaching, and mentoring of Technical Project, Program, and Portfolio Managers and people leaders. Expanded baseline PMO capabilities beyond traditional program management to embed cross-functional UX, QA, Release Management, and Change Management practices directly into core enterprise delivery teams. Repeatedly established governance, operating cadences, decision mechanisms, metrics, and executive visibility in ambiguous or high-risk programs.
+Built and scaled a global PMO of 20–25 employees, including the selection, development, coaching, and leadership of Technical Project, Program, and Portfolio Managers and people leaders. Expanded the organization beyond traditional program management to incorporate UX, QA, Release Management, and Change Management capabilities supporting enterprise transformation.
 
-*   **Enterprise Portfolio Governance:** Served as strategic business-operations partner to the VP of Digital Value Creation, supporting and governing seven enterprise portfolios across HR/Payroll, Finance, Legal, Sales & Marketing, Supply Chain, Procurement, Yield Management, and Enterprise IT/Technology. Tracked and managed an enterprise business impact of approximately $35M in FY21 and $75M in FY22 (summarizing $75M+ enterprise impact overall).
+Repeatedly established operating models, governance, executive cadences, decision mechanisms, metrics, and visibility in ambiguous or high-risk environments.
+
+- **Enterprise Portfolio & Business Operations:** Served as strategic business-operations partner to the VP of Digital Value Creation, supporting seven enterprise portfolios across corporate functions including HR/Payroll, Finance, Legal, Sales & Marketing, Supply Chain & Procurement, Yield Management, and Enterprise Technology. Established portfolio intake and prioritization, executive operating reviews, and decision mechanisms while tracking approximately $35M in FY21 and $75M in FY22 business value.
 *   **Capacity Optimization & Roadmapping:** Implemented transparent capacity and resource-allocation processes across 750+ global resources, balancing portfolio demand, staffing, vendor capacity, and delivery commitments. Defined 6, 12, 18, 24-month, and long-range roadmaps, translating corporate strategy into annual operating plans, funded Plans of Record, staffing strategies, execution priorities, and in-year portfolio rebalancing.
 *   **Financial Portfolio Stewardship:** Owned and defined annual portfolio budget allocations, investment prioritization matrices, vendor governance models, financial stewardship reviews, KPI/OKR tracking frameworks, executive dashboards, and post-launch value-realization tracking.
 *   **Scaled Agile Transformation:** Implemented the Scaled Agile Framework (SAFe) from the ground up. Trained change agents and organizational leaders, established a Lean-Agile Center of Excellence (LACE), identified core enterprise value streams, mapped dependencies, and successfully launched critical Agile Release Trains (ARTs) including Go-To-Market, Monetization of Services, and Supply Chain & Operations Planning.
