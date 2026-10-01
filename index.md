@@ -39,7 +39,7 @@ I am at my best in ambiguous environments where priorities compete, resources ar
 - **Portfolio, Program & Collaboration Tools** — Jira, Lucidchart, Figma, Google Workspace, Microsoft Office Suite, Tableau, and related portfolio-management and reporting tools.
 
 <details>
-<summary><strong>Earlier-Career Technical Stack</strong></summary>
+  <summary><strong>Earlier-Career Technical Stack</strong></summary>
 Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
 </details>
 
@@ -60,7 +60,7 @@ Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, I
 ### Sony Interactive Entertainment (2024 – 2025)
 **Strategic Portfolio Manager, Core Platform Engineering**
 
-Built and operationalized the Strategic Portfolio Management Office (SPMO) for Core Platform Engineering within a decentralized product and engineering environment spanning Client, Network, Hardware, Platform, Data, Commerce, Identity, and Partner ecosystems.
+  Built and operationalized the Strategic Portfolio Management Office (SPMO) for Core Platform Engineering within a decentralized product and engineering environment spanning Client, Network, Hardware, Platform, Data, Commerce, Identity, and Partner ecosystems.
 
 *   **Resource Capacity Modeling:** Created the organization's first centralized resource-planning model, exposing capacity constraints, over-allocation, structural dependencies, execution risks, and investment trade-offs. Managed portfolio visibility and capacity trade-offs across 10 to 40 concurrent programs per organization.
 *   **Strategic Roadmapping:** Translated long-range platform strategy into annual and quarterly capacity-aligned execution plans, partnering directly with senior engineering executives to govern investment strategy, funding decisions, sequencing, and priorities.
@@ -80,10 +80,11 @@ Repeatedly established operating models, governance, executive cadences, decisio
 *   **Workday Global Transformation:** Led an enterprise Workday optimization and transformation program affecting 40,000+ global employees across Core HCM, Recruiting, Payroll, and external vendor integrations. Owned and supported the broader workforce platform ecosystem including Workday and Beeline vendor management architectures.
 *   **Quality Assurance & Platform Adoption:** Introduced a dedicated QA capability within HR and established automated testing practices to drastically reduce functional-team testing burdens and secure release quality. Led comprehensive UX design alignment, change management, deployment-readiness checkpoints, communications matrixing, and hypercare support models to improve platform adoption while reducing burdens on business teams.
 *   **Commercial Scalability:** Led the rollout of a specialized Ship & Debit pricing and business model, supporting lower-touch sales operations and driving improved long-term commercial scalability.
+
 ### Cisco Systems (2017 – 2019)
 **Transformation Program Manager**
 
-Led cross-functional transformation initiatives across global Supply Chain, Finance, Legal, Tax, and Compliance business operations, managing and coaching program managers while influencing large matrixed engineering, operations, and business teams.
+  Led cross-functional transformation initiatives across global Supply Chain, Finance, Legal, Tax, and Compliance business operations, managing and coaching program managers while influencing large matrixed engineering, operations, and business teams.
 
 *   **Innovation Funding & Governance:** Engineered an agile, fast-fail funding framework to manage experimental enterprise initiatives. Developed rigorous business cases, ROI metrics, and readiness scorecards to evaluate business impact and organizational readiness to effectively prioritize strategic capital investments.
 *   **Operating Model Design:** Partnered with senior leadership to define future-state operating models, governance frameworks, success metrics, dependency management architectures, and executive decision-making cadences to advance higher-value initiatives into execution.
@@ -91,16 +92,17 @@ Led cross-functional transformation initiatives across global Supply Chain, Fina
 ### Qualcomm Incorporated (2005 – 2017)
 **Staff Technical Program Manager**
 
-Served as primary liaison among engineering product teams, corporate business owners, and IT technical groups to translate complex business objectives into executable roadmaps, leading product-deployment initiatives, functional/system requirements, process improvements, and implementation.
+  Served as primary liaison among engineering product teams, corporate business owners, and IT technical groups to translate complex business objectives into executable roadmaps, leading product-deployment initiatives, functional/system requirements, process improvements, and implementation.
 
 *   **Complex ERP Modernization:** Led complex multi-year enterprise programs valued at approximately $5M–$25M across ERP, supply chain, finance, operations, SaaS, and custom platforms. Directed global cross-functional teams of roughly 300–400+ members across engineering, IT, operations, business functions, and external partners. Led an Oracle ERP modernization from 11i to R12, owning architecture alignment, roadmap definition, requirements, budget, resource loading, vendor management, deployment, and stabilization.
 *   **M&A Integration Leadership:** Handled complex corporate M&A integration programs across supply-chain and finance platforms. Led post-acquisition platform consolidations, production data migrations, operational readiness checks, and stakeholder adoption frameworks to align business operations.
 *   **Operational Integration Planning:** Orchestrated multi-functional operational integration planning for subsequent potential enterprise acquisition evaluations. Developed comprehensive Day 1 through Day 180 operating plans across procurement and supply chain, mapping out supplier communications, negotiation strategies, PO approval delegations of authority, CapEx approvals, capacity planning, and cross-company system access while managing evolving strategic assumptions.
 *   **Source-to-Pay Modernization:** Led enterprise systems integration and Source-to-Pay transformation programs, partnering directly with enterprise architects and external vendors on technical trade-offs, system dependencies, platform reliability, and scalable post-deployment workflows. Established dashboards, executive communication cadences, milestone governance, and repeatable delivery models for complex matrixed programs.
+  
 ## Earlier Career (1993 – 2005)
 
 <details>
-<summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
+  <summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
 
 ### Covance, Inc. / LabCorp (2004 – 2005)
 **Senior Project Manager & Business Analyst**
