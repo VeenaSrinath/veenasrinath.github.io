@@ -18,7 +18,8 @@ I lead technology and business transformation across complex global organization
 I am at my best in ambiguous environments where priorities compete, resources are constrained, and leaders need clarity to make decisions. I partner with executives to establish operating cadences, prioritize investments, surface trade-offs, remove execution bottlenecks, and build organizations that can execute at scale. My experience spans enterprise technology, software and platform organizations, ERP and SaaS transformation, supply chain, M&A integration, AI-enabled process transformation, and organizational change.
 
 ---
-## Contents
+
+### Contents
 - [Key Enterprise Metrics & Realized Impact](#key-enterprise-metrics--realized-impact)
 - [Technology, AI & Operational Stack](#technology-ai--operational-stack)
 - [Work History](#work-history)
@@ -31,7 +32,8 @@ I am at my best in ambiguous environments where priorities compete, resources ar
   - [Education & Credentials](#education--credentials)
 
 ---
-## Key Enterprise Metrics & Realized Impact
+
+### Key Enterprise Metrics & Realized Impact
 - **Global PMO Leadership:** Built and scaled a 20–25 person global PMO, establishing portfolio governance, prioritization, resource planning, and executive operating rhythms.
 - **Resource & Capacity Planning:** Led capacity planning and resource allocation across 750+ global resources, balancing demand, staffing, vendor capacity, and delivery commitments.
 - **Enterprise Portfolio Leadership:** Governed seven enterprise portfolios across corporate functions including HR/Payroll, Finance, Legal, Sales & Marketing, Supply Chain & Procurement, Yield Management, and Enterprise Technology.
@@ -40,7 +42,8 @@ I am at my best in ambiguous environments where priorities compete, resources ar
 - **M&A & Large-Scale Transformation:** Led global cross-functional organizations of approximately 300–400+ people through ERP modernization, M&A integration, platform consolidation, and operating-model transformation.
 
 ---
-## Technology, AI & Operational Stack
+
+### Technology, AI & Operational Stack
 - **Enterprise Platforms & Systems** — Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
 - **AI & Automation** — Applied AI-enabled workflow automation, AIOCR document extraction, risk-based decisioning, and GenAI intake/governance to simplify enterprise processes and reduce manual work. Worked across an enterprise AI ecosystem including Swift, AI Sandbox, GenOS/E2E, Intuit CodeAssist, and approved GenAI tooling.
 - **AI Productivity Tools** — ChatGPT, Gemini, GitHub Copilot.
@@ -53,7 +56,7 @@ Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, I
 
 ---
 
-## Work History 
+### Work History 
 ### Intuit (2025 – 2026)
 **Principal Program Manager, Global Sourcing & Procurement / Global Business Services**
 
@@ -107,7 +110,7 @@ Repeatedly established operating models, governance, executive cadences, decisio
 *   **Operational Integration Planning:** Orchestrated multi-functional operational integration planning for subsequent potential enterprise acquisition evaluations. Developed comprehensive Day 1 through Day 180 operating plans across procurement and supply chain, mapping out supplier communications, negotiation strategies, PO approval delegations of authority, CapEx approvals, capacity planning, and cross-company system access while managing evolving strategic assumptions.
 *   **Source-to-Pay Modernization:** Led enterprise systems integration and Source-to-Pay transformation programs, partnering directly with enterprise architects and external vendors on technical trade-offs, system dependencies, platform reliability, and scalable post-deployment workflows. Established dashboards, executive communication cadences, milestone governance, and repeatable delivery models for complex matrixed programs.
 
-## Earlier Career (1993 – 2005)
+### Earlier Career (1993 – 2005)
 
 <details markdown="1">
 <summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
@@ -130,7 +133,7 @@ Repeatedly established operating models, governance, executive cadences, decisio
 
 ---
 
-## Education & Credentials
+### Education & Credentials
 *   **Bachelor of Engineering (B.E.), Computer Science & Information Technology**  
     Bangalore University, India (Ranked 2nd in Program)
 *   **Project Management Professional (PMP)** — Certified since 2007
