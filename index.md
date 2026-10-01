@@ -9,7 +9,6 @@ San Diego, CA | [Connect on LinkedIn](https://linkedin.com) | [Email Me](mailto:
 
 ---
 
-
 ---
 ## Executive Summary
 I lead technology and business transformation across complex global organizations, working at the intersection of strategy, business operations, portfolio leadership, and execution. Over 20+ years, I have built and scaled PMO capabilities, shaped operating models, translated multi-year strategy into funded roadmaps and Plans of Record, and led investment, resource, and capacity decisions across engineering, product, and corporate functions. 
