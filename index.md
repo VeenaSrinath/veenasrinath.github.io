@@ -1,11 +1,14 @@
-<center>
+<div align="center">
 
-# Veena Srinath
+<h2>Technology &amp; Business Transformation | Business Operations | Enterprise PMO | Portfolio &amp; Investment Governance</h2>
 
-**Technology & Business Transformation | Business Operations | Enterprise PMO | Portfolio & Investment Governance**  
-San Diego, CA | [Connect on LinkedIn](https://linkedin.com) | [Email Me](mailto:veena.a.srinath@gmail.com)
+<p>
+San Diego, CA |
+<a href="https://www.linkedin.com/in/veena/">Connect on LinkedIn</a> |
+<a href="mailto:veena.a.srinath@gmail.com">Email Me</a>
+</p>
 
-</center>
+</div>
 
 ---
 
