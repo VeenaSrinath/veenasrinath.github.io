@@ -29,7 +29,7 @@ I am at my best in ambiguous environments where priorities compete, resources ar
   - [Cisco Systems — Transformation Program Manager](#cisco-systems-2017--2019)
   - [Qualcomm — Staff Technical Program Manager](#qualcomm-incorporated-2005--2017)
   - [Earlier Career](#earlier-career-1993--2005)
-  - [Education & Credentials](#education--credentials)
+- [Education & Credentials](#education--credentials)
 
 ---
 
