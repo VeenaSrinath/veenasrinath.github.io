@@ -18,7 +18,6 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
     *   [Intuit - Principal Program Manager](#intuit-2025--2026)
     *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
     *   [Qualcomm Inc - Director](#qualcomm-incorporated-2019--2024)
-    *   [Qualcomm Incorporated - Director](#qualcomm-incorporated-2019--2024)
     *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
     *   [Qualcomm Inc - Staff Program Manager](#qualcomm-incorporated-2005--2017)
     *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc--labcorp-2004--2005)
