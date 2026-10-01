@@ -48,6 +48,7 @@ Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, I
 ## Work History 
 ### Intuit (2025 – 2026)
 **Principal Program Manager, Global Sourcing & Procurement / Global Business Services**
+
 Led enterprise-wide transformations across Third-Party Risk Management (3PRM), Contract Lifecycle Management (CLM) for Expense Contracts, Swift employee-experience initiatives, and Purchase Order Change Requests (POCR). Partnered across Sourcing, Legal, Finance, Technology, Security, Privacy, Compliance, and Risk Domain SMEs to architect executive steering updates, requirements traceability, and continuous delivery models.
 
 *   **Swift Architecture & Deployment:** Coordinated the strategy and user-experience logic for Swift, an AI-enabled procurement orchestration platform and centralized intelligent front door built to automate manual administrative tasks into guided, "Done for You" experiences. Developed routing logic for non-catalog purchase requisitions by integrating Swift with existing financial (Coupa) and risk (Aravo) platforms, deploying features such as AIOCR document data extraction, guided workflows, and a "Pizza Tracker" status experience. Defined request-routing options to handle Coupa power users and fast-follow needs, targeting a reduction in S2C + PR/PO employee-facing touchpoints from 13 down to 2, and improving Swift CSAT from 0 to >50.
@@ -58,6 +59,7 @@ Led enterprise-wide transformations across Third-Party Risk Management (3PRM), C
 
 ### Sony Interactive Entertainment (2024 – 2025)
 **Strategic Portfolio Manager, Core Platform Engineering**
+
 Built and operationalized the Strategic Portfolio Management Office (SPMO) for Core Platform Engineering within a decentralized product and engineering environment spanning Client, Network, Hardware, Platform, Data, Commerce, Identity, and Partner ecosystems.
 
 *   **Resource Capacity Modeling:** Created the organization's first centralized resource-planning model, exposing capacity constraints, over-allocation, structural dependencies, execution risks, and investment trade-offs. Managed portfolio visibility and capacity trade-offs across 10 to 40 concurrent programs per organization.
@@ -66,6 +68,7 @@ Built and operationalized the Strategic Portfolio Management Office (SPMO) for C
 
 ### Qualcomm Incorporated (2019 – 2024)
 **Director, PMO & Business Operations**
+
 Built and scaled a global PMO of 20–25 employees, including the selection, development, coaching, and leadership of Technical Project, Program, and Portfolio Managers and people leaders. Expanded the organization beyond traditional program management to incorporate UX, QA, Release Management, and Change Management capabilities supporting enterprise transformation.
 
 Repeatedly established operating models, governance, executive cadences, decision mechanisms, metrics, and visibility in ambiguous or high-risk environments.
@@ -86,6 +89,7 @@ Led cross-functional transformation initiatives across global Supply Chain, Fina
 
 ### Qualcomm Incorporated (2005 – 2017)
 **Staff Technical Program Manager**
+
 Served as primary liaison among engineering product teams, corporate business owners, and IT technical groups to translate complex business objectives into executable roadmaps, leading product-deployment initiatives, functional/system requirements, process improvements, and implementation.
 
 *   **Complex ERP Modernization:** Led complex multi-year enterprise programs valued at approximately $5M–$25M across ERP, supply chain, finance, operations, SaaS, and custom platforms. Directed global cross-functional teams of roughly 300–400+ members across engineering, IT, operations, business functions, and external partners. Led an Oracle ERP modernization from 11i to R12, owning architecture alignment, roadmap definition, requirements, budget, resource loading, vendor management, deployment, and stabilization.
@@ -99,6 +103,7 @@ Served as primary liaison among engineering product teams, corporate business ow
 
 ### Covance, Inc. / LabCorp (2004 – 2005)
 **Senior Project Manager & Business Analyst**
+
 - **Workflow Reengineering:** Conceptualized and reengineered a core health-insurance claims workflow for a Fortune 500 therapeutics company and specialty-pharmacy partners, achieving annual cost reduction of over $1M by redistributing claims based on partner specialization. Led a 12-person cross-company team.
 
 - **Digital Intake Strategy:** Developed a provider migration strategy for a global pharmaceutical firm to move clinics, physicians, and office staff from legacy fax workflows to secure web-based claims submission, yielding a 10% margin improvement and more than $2M in potential annual cost savings.
@@ -111,6 +116,7 @@ Served as primary liaison among engineering product teams, corporate business ow
 
 ### Memec Group / Avnet (1996 – 2002)
 **Project Manager & Business Analyst**
+
 - Led cross-functional teams delivering integrated financial, sales, marketing, warehouse, ERP, and supply-chain solutions designed to reduce inventory carrying costs, improve profitability, and strengthen customer service.
 
 - Built database synchronization and data-flow capabilities across distributed operational locations processing 100,000+ business transactions per day.
@@ -121,6 +127,7 @@ Served as primary liaison among engineering product teams, corporate business ow
 
 ### Tata Unisys Ltd. / Tata Consultancy Services (1993 – 1996)
 **Software Engineer / Quality Assurance Engineer**
+
 - Developed client/server applications supporting transaction processing for commercial financial institutions.
 
 - Built reporting and testing capabilities for a major U.S. automobile manufacturer supporting California emissions-control compliance reporting.
