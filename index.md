@@ -115,17 +115,17 @@ Repeatedly established operating models, governance, executive cadences, decisio
 <details markdown="1">
 <summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
 
-#### Covance, Inc. / LabCorp (2004 – 2005)
+### Covance, Inc. / LabCorp (2004 – 2005)
 **Senior Project Manager & Business Analyst**
 - Reengineered healthcare claims and provider workflows, delivering $1M+ in annual cost reduction and identifying $2M+ in potential savings through digital intake and process redesign.
 - Led cross-company discovery, workflow redesign, and delivery of physician reimbursement capabilities spanning insurance verification, prior authorization, status tracking, and call-center integration.
 
-#### Memec Group / Avnet (1996 – 2002)
+### Memec Group / Avnet (1996 – 2002)
 **Project Manager & Business Analyst**
 - Led integrated financial, sales, warehouse, ERP, and supply-chain solutions supporting 100,000+ daily transactions and improved operational efficiency.
 - Led nationwide application deployments and training supporting 600+ sales users.
 
-#### Tata Unisys Ltd. / Tata Consultancy Services (1993 – 1996)
+### Tata Unisys Ltd. / Tata Consultancy Services (1993 – 1996)
 **Software Engineer / Quality Assurance Engineer**
 - Developed transaction-processing and reporting applications and served as QA Lead across functional, system, integration, and audit activities.
 
