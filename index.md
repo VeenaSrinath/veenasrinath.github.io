@@ -30,6 +30,7 @@ I am at my best in ambiguous environments where priorities compete, resources ar
 - **Investment Governance & Business Value:** Led annual planning, budget allocation, investment prioritization, KPI/OKR frameworks, and value-realization tracking across portfolios delivering $75M+ in measurable business value.
 - **Enterprise Platform Transformation:** Led global workforce and platform modernization initiatives supporting 40,000+ employees.
 - **M&A & Large-Scale Transformation:** Led global cross-functional organizations of approximately 300–400+ people through ERP modernization, M&A integration, platform consolidation, and operating-model transformation.
+
 ---
 ## Technology, AI & Operational Stack
 - **Enterprise Platforms & Systems** — Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
@@ -41,6 +42,7 @@ I am at my best in ambiguous environments where priorities compete, resources ar
 <summary><strong>Earlier-Career Technical Stack</strong></summary>
 Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
 </details>
+
 ---
 
 ## Work History 
