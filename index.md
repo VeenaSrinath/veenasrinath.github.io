@@ -6,6 +6,7 @@ San Diego, CA | [Connect on LinkedIn](https://linkedin.com) | veena.a.srinath@gm
 ---
 ## Executive Summary
 I lead technology and business transformation across complex global organizations, working at the intersection of strategy, business operations, portfolio leadership, and execution. Over 20+ years, I have built and scaled PMO capabilities, shaped operating models, translated multi-year strategy into funded roadmaps and Plans of Record, and led investment, resource, and capacity decisions across engineering, product, and corporate functions. 
+
 I am at my best in ambiguous environments where priorities compete, resources are constrained, and leaders need clarity to make decisions. I partner with executives to establish operating cadences, prioritize investments, surface trade-offs, remove execution bottlenecks, and build organizations that can execute at scale. My experience spans enterprise technology, software and platform organizations, ERP and SaaS transformation, supply chain, M&A integration, AI-enabled process transformation, and organizational change.
 
 ---
