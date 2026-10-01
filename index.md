@@ -1,7 +1,7 @@
 # Veena Srinath
 
 **Technology & Business Transformation, Business Operations, Enterprise PMO, Portfolio & Investment Governance**  
-San Diego, CA | [Connect on LinkedIn](https://www.linkedin.com/in/veena) | veena.a.srinath@gmail.com
+San Diego, CA | [Connect on LinkedIn](https://www.linkedin.com/in/veena) | [Email] (veena.a.srinath@gmail.com)
 
 ---
 ## Executive Summary
