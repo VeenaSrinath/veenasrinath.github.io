@@ -108,11 +108,8 @@ Repeatedly established operating models, governance, executive cadences, decisio
 **Senior Project Manager & Business Analyst**
 
 - **Workflow Reengineering:** Conceptualized and reengineered a core health-insurance claims workflow for a Fortune 500 therapeutics company and specialty-pharmacy partners, achieving annual cost reduction of over $1M by redistributing claims based on partner specialization. Led a 12-person cross-company team.
-
 - **Digital Intake Strategy:** Developed a provider migration strategy for a global pharmaceutical firm to move clinics, physicians, and office staff from legacy fax workflows to secure web-based claims submission, yielding a 10% margin improvement and more than $2M in potential annual cost savings.
-
 - **Product Delivery:** Designed and implemented a physician reimbursement website supporting online insurance verification, prior authorization, patient-status tracking, policy access, and backend call-center integration.
-
 - **Business Discovery:** Led focus groups and large discovery workshops involving executives, account directors, physicians, and operational stakeholders to translate business needs into process and system designs.
 
 - **Operational Standards:** Developed business proposals incorporating cost-benefit analysis, risk, scope, delivery timing, and technical feasibility while helping establish SDLC processes, lifecycle artifacts, and design standards.
@@ -121,20 +118,15 @@ Repeatedly established operating models, governance, executive cadences, decisio
 **Project Manager & Business Analyst**
 
 - Led cross-functional teams delivering integrated financial, sales, marketing, warehouse, ERP, and supply-chain solutions designed to reduce inventory carrying costs, improve profitability, and strengthen customer service.
-
 - Built database synchronization and data-flow capabilities across distributed operational locations processing 100,000+ business transactions per day.
-
 - Led nationwide software and application training deployments supporting more than 600 corporate sales users.
-
 - Managed post-launch technical and warehouse support, system enhancements, database maintenance, customization, and adoption metrics.
 
 ### Tata Unisys Ltd. / Tata Consultancy Services (1993 – 1996)
 **Software Engineer / Quality Assurance Engineer**
 
 - Developed client/server applications supporting transaction processing for commercial financial institutions.
-
 - Built reporting and testing capabilities for a major U.S. automobile manufacturer supporting California emissions-control compliance reporting.
-
 - Served as Quality Assurance Lead, defining verification strategies and leading functional, system, integration, document-review, and software-audit activities.
 
 </details>
