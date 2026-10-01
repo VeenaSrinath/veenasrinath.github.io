@@ -98,42 +98,30 @@ Repeatedly established operating models, governance, executive cadences, decisio
 *   **M&A Integration Leadership:** Handled complex corporate M&A integration programs across supply-chain and finance platforms. Led post-acquisition platform consolidations, production data migrations, operational readiness checks, and stakeholder adoption frameworks to align business operations.
 *   **Operational Integration Planning:** Orchestrated multi-functional operational integration planning for subsequent potential enterprise acquisition evaluations. Developed comprehensive Day 1 through Day 180 operating plans across procurement and supply chain, mapping out supplier communications, negotiation strategies, PO approval delegations of authority, CapEx approvals, capacity planning, and cross-company system access while managing evolving strategic assumptions.
 *   **Source-to-Pay Modernization:** Led enterprise systems integration and Source-to-Pay transformation programs, partnering directly with enterprise architects and external vendors on technical trade-offs, system dependencies, platform reliability, and scalable post-deployment workflows. Established dashboards, executive communication cadences, milestone governance, and repeatable delivery models for complex matrixed programs.
-  
+
 ## Earlier Career (1993 – 2005)
 
-<details>
+<details markdown="1">
 <summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
-
 
 ### Covance, Inc. / LabCorp (2004 – 2005)
 **Senior Project Manager & Business Analyst**
-
-*   **Workflow Reengineering:** Conceptualized and reengineered a core health-insurance claims workflow for a Fortune 500 therapeutics company and specialty-pharmacy partners, achieving annual cost reduction of over $1M by redistributing claims based on partner specialization. Led a 12-person cross-company team.
-*   **Digital Intake Strategy:** Developed a provider migration strategy for a global pharmaceutical firm to move clinics, physicians, and office staff from legacy fax workflows to secure web-based claims submission, yielding a 10% margin improvement and more than $2M in potential annual cost savings.
-*   **Product Delivery:** Designed and implemented a physician reimbursement website supporting online insurance verification, prior authorization, patient-status tracking, policy access, and backend call-center integration.
-*   **Business Discovery:** Led focus groups and large discovery workshops involving executives, account directors, physicians, and operational stakeholders to translate business needs into process and system designs.
-*   **Operational Standards:** Developed business proposals incorporating cost-benefit analysis, risk, scope, delivery timing, and technical feasibility while helping establish SDLC processes, lifecycle artifacts, and design standards.
-
+- Reengineered healthcare claims and provider workflows, delivering $1M+ in annual cost reduction and identifying $2M+ in potential savings through digital intake and process redesign.
+- Led cross-company discovery, workflow redesign, and delivery of physician reimbursement capabilities spanning insurance verification, prior authorization, status tracking, and call-center integration.
 
 ### Memec Group / Avnet (1996 – 2002)
 **Project Manager & Business Analyst**
-
-*   Led cross-functional teams delivering integrated financial, sales, marketing, warehouse, ERP, and supply-chain solutions designed to reduce inventory carrying costs, improve profitability, and strengthen customer service.
-*   Built database synchronization and data-flow capabilities across distributed operational locations processing 100,000+ business transactions per day.
-*   Led nationwide software and application training deployments supporting more than 600 corporate sales users.
-*   Managed post-launch technical and warehouse support, system enhancements, database maintenance, customization, and adoption metrics.
-
+- Led integrated financial, sales, warehouse, ERP, and supply-chain solutions supporting 100,000+ daily transactions and improved operational efficiency.
+- Led nationwide application deployments and training supporting 600+ sales users.
 
 ### Tata Unisys Ltd. / Tata Consultancy Services (1993 – 1996)
 **Software Engineer / Quality Assurance Engineer**
-
-*   Developed client/server applications supporting transaction processing for commercial financial institutions.
-*   Built reporting and testing capabilities for a major U.S. automobile manufacturer supporting California emissions-control compliance reporting.
-*   Served as Quality Assurance Lead, defining verification strategies and leading functional, system, integration, document-review, and software-audit activities.
+- Developed transaction-processing and reporting applications and served as QA Lead across functional, system, integration, and audit activities.
 
 </details>
 
 ---
+
 ## Education & Credentials
 *   **Bachelor of Engineering (B.E.), Computer Science & Information Technology**  
     Bangalore University, India (Ranked 2nd in Program)
