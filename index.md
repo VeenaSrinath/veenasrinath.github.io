@@ -16,7 +16,7 @@ I am at my best in ambiguous environments where priorities compete, resources ar
 - [Work History](#work-history)
   - [Intuit — Principal Program Manager](#intuit-2025--2026)
   - [Sony Interactive Entertainment — Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
-  - [Qualcomm — Director, PMO & Business Operations](#qualcomm-incorporated--2019--2024)
+  - [Qualcomm — Director, PMO & Business Operations](#qualcomm-incorporated-2019--2024)
   - [Cisco Systems — Transformation Program Manager](#cisco-systems-2017--2019)
   - [Qualcomm — Staff Technical Program Manager](#qualcomm-incorporated-2005--2017)
   - [Earlier Career](#earlier-career-1993--2005)
