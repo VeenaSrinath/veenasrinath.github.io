@@ -1,6 +1,8 @@
 <div align="center">
 
-<h4>Technology &amp; Business Transformation | Business Operations | Enterprise PMO | Portfolio &amp; Investment Governance</h4>
+<h1>Veena Srinath</h1>
+
+<h3>Technology &amp; Business Transformation | Business Operations | Enterprise PMO | Portfolio &amp; Investment Governance</h3>
 
 <p>
 San Diego, CA |
@@ -12,7 +14,6 @@ San Diego, CA |
 
 ---
 
----
 ## Executive Summary
 I lead technology and business transformation across complex global organizations, working at the intersection of strategy, business operations, portfolio leadership, and execution. Over 20+ years, I have built and scaled PMO capabilities, shaped operating models, translated multi-year strategy into funded roadmaps and Plans of Record, and led investment, resource, and capacity decisions across engineering, product, and corporate functions. 
 
