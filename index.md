@@ -1,6 +1,6 @@
 # Veena Srinath
 
-**Director — Enterprise PMO, Strategic Portfolio Management & Business Operations**  
+**Technology & Business Transformation | Business Operations | Enterprise PMO | Portfolio & Investment Governance**  
 San Diego, CA | [Connect on LinkedIn](https://linkedin.com) | veena.a.srinath@gmail.com
 
 ---
@@ -17,9 +17,9 @@ I am an enterprise technology, program portfolio, PMO, and business-operations l
 *   [Work History](#work-history)
     *   [Intuit - Principal Program Manager](#intuit-2025--2026)
     *   [Sony Interactive Entertainment - Strategic Portfolio Manager](#sony-interactive-entertainment-2024--2025)
-    *   [Qualcomm Incorporated — Director (2019 – 2024)](#qualcomm-incorporated--director-2019--2024)
+    *   [Qualcomm Incorporated — Director (2019 – 2024)](#qualcomm-incorporated-2019--2024)
     *   [Cisco Systems - Transformation Program Manager](#cisco-systems-2017--2019)
-    *   [Qualcomm Inc - Staff Program Manager](#qualcomm-inc-2005--2017)
+    *   [Qualcomm Inc - Staff Program Manager](#qualcomm-incorporated-2005--2017)
     *   [Covance, Inc. / LabCorp - Sr. Project Manager & Business Analyst](#covance-inc--labcorp-2004--2005)
     *   [Memec Group / Avnet - Project Manager & Business Analyst](#memec-group--avnet-1996--2002)
     *   [Tata Unisys Ltd. / Tata Consultancy Services - Software Engineer & Quality Assurance Engineer](#tata-unisys-ltd--tata-consultancy-services-1993--1996)
