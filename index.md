@@ -4,13 +4,11 @@
 San Diego, CA | [Connect on LinkedIn](https://linkedin.com) | veena.a.srinath@gmail.com
 
 ---
-
 ## Executive Summary
 I lead technology and business transformation across complex global organizations, working at the intersection of strategy, business operations, portfolio leadership, and execution. Over 20+ years, I have built and scaled PMO capabilities, shaped operating models, translated multi-year strategy into funded roadmaps and Plans of Record, and led investment, resource, and capacity decisions across engineering, product, and corporate functions.
 
 I am at my best in ambiguous environments where priorities compete, resources are constrained, and leaders need clarity to make decisions. I partner with executives to establish operating cadences, prioritize investments, surface trade-offs, remove execution bottlenecks, and build organizations that can execute at scale. My experience spans enterprise technology, software and platform organizations, ERP and SaaS transformation, supply chain, M&A integration, AI-enabled process transformation, and organizational change.
 ---
-
 ## Contents
 - [Key Enterprise Metrics & Realized Impact](#key-enterprise-metrics--realized-impact)
 - [Technology, AI & Operational Stack](#technology-ai--operational-stack)
@@ -25,38 +23,24 @@ I am at my best in ambiguous environments where priorities compete, resources ar
 ---
 
 ## Key Enterprise Metrics & Realized Impact
-
 - **Global PMO Leadership:** Built and scaled a 20–25 person global PMO, establishing portfolio governance, prioritization, resource planning, and executive operating rhythms.
-
 - **Resource & Capacity Planning:** Led capacity planning and resource allocation across 750+ global resources, balancing demand, staffing, vendor capacity, and delivery commitments.
-
 - **Enterprise Portfolio Leadership:** Governed seven enterprise portfolios across corporate functions including HR/Payroll, Finance, Legal, Sales & Marketing, Supply Chain & Procurement, Yield Management, and Enterprise Technology.
-
 - **Investment Governance & Business Value:** Led annual planning, budget allocation, investment prioritization, KPI/OKR frameworks, and value-realization tracking across portfolios delivering $75M+ in measurable business value.
-
 - **Enterprise Platform Transformation:** Led global workforce and platform modernization initiatives supporting 40,000+ employees.
-
 - **M&A & Large-Scale Transformation:** Led global cross-functional organizations of approximately 300–400+ people through ERP modernization, M&A integration, platform consolidation, and operating-model transformation.
-
 ---
-
 ## Technology, AI & Operational Stack
-
 - **Enterprise Platforms & Systems** — Workday, Oracle ERP 11i/R12, Coupa, Aravo, Ironclad, Swift, ServiceNow (SNOW), Beeline, custom enterprise platforms, and SaaS implementations.
-
 - **AI & Automation** — Applied AI-enabled workflow automation, AIOCR document extraction, risk-based decisioning, and GenAI intake/governance to simplify enterprise processes and reduce manual work. Worked across an enterprise AI ecosystem including Swift, AI Sandbox, GenOS/E2E, Intuit CodeAssist, and approved GenAI tooling.
-
 - **AI Productivity Tools** — ChatGPT, Gemini, GitHub Copilot.
-
 - **Portfolio, Program & Collaboration Tools** — Jira, Lucidchart, Figma, Google Workspace, Microsoft Office Suite, Tableau, and related portfolio-management and reporting tools.
 
 <details>
 <summary><strong>Earlier-Career Technical Stack</strong></summary>
 
 Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
-
 </details>
-
 ---
 
 ## Work History 
@@ -69,7 +53,7 @@ Led enterprise-wide transformations across Third-Party Risk Management (3PRM), C
 *   **Swift Architecture & Deployment:** Coordinated the strategy and user-experience logic for Swift, an AI-enabled procurement orchestration platform and centralized intelligent front door built to automate manual administrative tasks into guided, "Done for You" experiences. Developed routing logic for non-catalog purchase requisitions by integrating Swift with existing financial (Coupa) and risk (Aravo) platforms, deploying features such as AIOCR document data extraction, guided workflows, and a "Pizza Tracker" status experience. Defined request-routing options to handle Coupa power users and fast-follow needs, targeting a reduction in S2C + PR/PO employee-facing touchpoints from 13 down to 2, and improving Swift CSAT from 0 to >50.
 *   **Third-Party Risk (3PRM) Transformation:** Stabilized a complex, cross-functional 3PRM transformation supporting 17,000+ employees and 9,000+ third parties, revising timelines to prioritize data hygiene and stakeholder validation while targeting approximately 2,500 hours of annual time savings. Redesigned the intake experience using a rationalized Inherent Risk Questionnaire (IRQ) and Due Diligence Questionnaire (DDQ) with conditional workflow thresholds. Partnered with PwC, risk domain leads, and data teams on data-cleansing and migration strategy using Golden Record concepts. Targeted reducing supplier onboarding from 22 business days down to 10 days and eliminating low-value reviews for 25% of requests.
 *   **Purchase Order Change Automation (POCR):** Led end-to-end definition and planning of the Swift POCR initiative to centralize requester activity for non-catalog change requests while preserving Coupa as the downstream system of record. Owned problem definition, scope alignment, and stakeholder consensus across Buy Desk, Sourcing, Finance, and engineering teams using a DACIE responsibility model. Defined a guided experience with pre-populated PO context, invoices, prior revisions, and automated validation checks. Produced a detailed business-requirements package of 95 requirements and 35 UAT scenarios, targeting a 30–50% reduction in process rework.
-*   **AI Tool & Intake Governance:** Supported design of a clearer intake and routing experience for enterprise GenAI tool requests, addressing employee confusion about approved tools, capability-owner approvals, and available experimentation paths. Framed approval-routing concepts using commodity, requester context, and risk-review triggers. Defined request-routing scenarios for spend/no-spend and real/synthetic data across Swift, Aravo, or ServiceNow (SNOW) while ensuring contractual, privacy, or NDA controls were enforced. Redirected users to approved solutions including AI Sandbox, approved LLM testing in GenOS/E2E, Intuit CodeAssist, and the Application Portal.
+* **AI Tool & Intake Governance:** Redesigned the intake and decision framework for enterprise GenAI tool requests, simplifying how employees navigated approved tools, experimentation paths, spend requirements, data sensitivity, and risk-review triggers. Defined routing scenarios across Swift, Aravo, and ServiceNow based on requester context, spend, data type, contractual requirements, privacy, and NDA controls—directing users toward approved enterprise capabilities including AI Sandbox, GenOS/E2E, Intuit CodeAssist, and other sanctioned GenAI tools.
 *   **Contract Lifecycle Management (CLM) Readiness:** Directed Phase 3 implementation readiness for enterprise expense contracts utilizing an integrated Ironclad, Coupa, Swift, Aravo, and Oracle architecture to eliminate manual handoffs, improve visibility, and streamline audit compliance. Evaluated Phase 1 user adoption to inform Phase 3 designs, coordinated with Ironclad to develop tailored expense workflows, and initiated system-integrator evaluations across PwC, Deloitte, and Consilio. Conducted assessments covering contract inventories, policies, and workflows, while exploring template rationalization, contingent-workforce needs, and budget requirements, targeting a 30–40% reduction in contract cycle times.
 
 ### Sony Interactive Entertainment (2024 – 2025)
@@ -157,7 +141,6 @@ Served as primary liaison among engineering product teams, corporate business ow
 
 ---
 ## Education & Credentials
-
 *   **Bachelor of Engineering (B.E.), Computer Science & Information Technology**  
     Bangalore University, India (Ranked 2nd in Program)
 *   **Project Management Professional (PMP)** — Certified since 2007
