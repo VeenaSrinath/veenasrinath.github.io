@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Technology &amp; Business Transformation | Business Operations | Enterprise PMO | Portfolio &amp; Investment Governance</h3>
+<h4>Technology &amp; Business Transformation | Business Operations | Enterprise PMO | Portfolio &amp; Investment Governance</h4>
 
 <p>
 San Diego, CA |
