@@ -6,6 +6,7 @@ San Diego, CA | [Connect on LinkedIn](https://linkedin.com) | veena.a.srinath@gm
 ## Executive Summary
 I lead technology and business transformation across complex global organizations, working at the intersection of strategy, business operations, portfolio leadership, and execution. Over 20+ years, I have built and scaled PMO capabilities, shaped operating models, translated multi-year strategy into funded roadmaps and Plans of Record, and led investment, resource, and capacity decisions across engineering, product, and corporate functions. 
 I am at my best in ambiguous environments where priorities compete, resources are constrained, and leaders need clarity to make decisions. I partner with executives to establish operating cadences, prioritize investments, surface trade-offs, remove execution bottlenecks, and build organizations that can execute at scale. My experience spans enterprise technology, software and platform organizations, ERP and SaaS transformation, supply chain, M&A integration, AI-enabled process transformation, and organizational change.
+
 ---
 ## Contents
 - [Key Enterprise Metrics & Realized Impact](#key-enterprise-metrics--realized-impact)
@@ -18,6 +19,7 @@ I am at my best in ambiguous environments where priorities compete, resources ar
   - [Qualcomm — Staff Technical Program Manager](#qualcomm-incorporated-2005--2017)
   - [Earlier Career](#earlier-career-1993--2005)
   - [Education & Credentials](#education--credentials)
+
 ---
 ## Key Enterprise Metrics & Realized Impact
 - **Global PMO Leadership:** Built and scaled a 20–25 person global PMO, establishing portfolio governance, prioritization, resource planning, and executive operating rhythms.
@@ -53,6 +55,7 @@ Led enterprise-wide transformations across Third-Party Risk Management (3PRM), C
 
 ### Sony Interactive Entertainment (2024 – 2025)
 **Strategic Portfolio Manager, Core Platform Engineering**
+
 Built and operationalized the Strategic Portfolio Management Office (SPMO) for Core Platform Engineering within a decentralized product and engineering environment spanning Client, Network, Hardware, Platform, Data, Commerce, Identity, and Partner ecosystems.
 
 *   **Resource Capacity Modeling:** Created the organization's first centralized resource-planning model, exposing capacity constraints, over-allocation, structural dependencies, execution risks, and investment trade-offs. Managed portfolio visibility and capacity trade-offs across 10 to 40 concurrent programs per organization.
