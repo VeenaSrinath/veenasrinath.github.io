@@ -82,6 +82,7 @@ Repeatedly established operating models, governance, executive cadences, decisio
 *   **Commercial Scalability:** Led the rollout of a specialized Ship & Debit pricing and business model, supporting lower-touch sales operations and driving improved long-term commercial scalability.
 ### Cisco Systems (2017 – 2019)
 **Transformation Program Manager**
+
 Led cross-functional transformation initiatives across global Supply Chain, Finance, Legal, Tax, and Compliance business operations, managing and coaching program managers while influencing large matrixed engineering, operations, and business teams.
 
 *   **Innovation Funding & Governance:** Engineered an agile, fast-fail funding framework to manage experimental enterprise initiatives. Developed rigorous business cases, ROI metrics, and readiness scorecards to evaluate business impact and organizational readiness to effectively prioritize strategic capital investments.
