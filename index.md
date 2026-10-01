@@ -39,7 +39,7 @@ I am at my best in ambiguous environments where priorities compete, resources ar
 - **Portfolio, Program & Collaboration Tools** — Jira, Lucidchart, Figma, Google Workspace, Microsoft Office Suite, Tableau, and related portfolio-management and reporting tools.
 
 <details>
-  <summary><strong>Earlier-Career Technical Stack</strong></summary>
+<summary><strong>Earlier-Career Technical Stack</strong></summary>
 Java, FORTE, C/C++, VB, Pro*C, PL/SQL, INGRES 4GL, Open Road, Oracle Database, Ingres, Informix, SQL Server, Lotus Notes, Rational Rose, System Architect, Segue testing tools, UNIX, Windows, WebMethods, and Extricity.
 </details>
 
@@ -102,7 +102,7 @@ Repeatedly established operating models, governance, executive cadences, decisio
 ## Earlier Career (1993 – 2005)
 
 <details>
-  <summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
+<summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
 
 ### Covance, Inc. / LabCorp (2004 – 2005)
 **Senior Project Manager & Business Analyst**
