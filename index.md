@@ -104,6 +104,7 @@ Repeatedly established operating models, governance, executive cadences, decisio
 <details>
 <summary><strong>View earlier experience — Covance/LabCorp, Memec/Avnet, Tata Consultancy Services</strong></summary>
 
+
 ### Covance, Inc. / LabCorp (2004 – 2005)
 **Senior Project Manager & Business Analyst**
 
@@ -113,6 +114,7 @@ Repeatedly established operating models, governance, executive cadences, decisio
 *   **Business Discovery:** Led focus groups and large discovery workshops involving executives, account directors, physicians, and operational stakeholders to translate business needs into process and system designs.
 *   **Operational Standards:** Developed business proposals incorporating cost-benefit analysis, risk, scope, delivery timing, and technical feasibility while helping establish SDLC processes, lifecycle artifacts, and design standards.
 
+
 ### Memec Group / Avnet (1996 – 2002)
 **Project Manager & Business Analyst**
 
@@ -120,6 +122,7 @@ Repeatedly established operating models, governance, executive cadences, decisio
 *   Built database synchronization and data-flow capabilities across distributed operational locations processing 100,000+ business transactions per day.
 *   Led nationwide software and application training deployments supporting more than 600 corporate sales users.
 *   Managed post-launch technical and warehouse support, system enhancements, database maintenance, customization, and adoption metrics.
+
 
 ### Tata Unisys Ltd. / Tata Consultancy Services (1993 – 1996)
 **Software Engineer / Quality Assurance Engineer**
